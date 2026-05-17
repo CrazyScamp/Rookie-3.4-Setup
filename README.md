@@ -1,9 +1,9 @@
 ## ⚠️ IMPORTANT
-Before you start! if you haven't already you need to get your headset ready for sideloading
+Before you start! if you haven't already you need to get your headset and PC ready for sideloading
 <p>
   <a 
 href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading">
-<img src="https://img.shields.io/badge/Headset Setup Guide-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Headset / PC Setup Guide-blue?style=for-the-badge">
   </a>
   </p>
 
